@@ -1,0 +1,2 @@
+1~What currency does Mexico use?~Peso~Correct Answer!~Wrong Answer!~3~false
+2~Name a pain medicine~Advil~Correct Answer!~Wrong Answer!~4~false

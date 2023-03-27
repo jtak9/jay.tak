@@ -1,0 +1,6 @@
+1~Office~You are inside a corporate office building.~false~0,3,2,0~pen~0
+2~Bank~This building has security guards walking around and a long line at each teller.~false~0,4,0,1~0~1
+3~Restaurant~The restaurant is filled with chatter and inviting aromas.~false~1,5,4,0~bread~0
+4~Police Station~Highly guarded and security measures everywhere.~false~2,6,0,3~0~0
+5~Pharmacy~The pharmacy is stocked with various medicine and items.~false~3,0,6,0~medicine~2
+6~School~The local school is packed full of students and faculty.~false~4,0,0,5~backpack~0
